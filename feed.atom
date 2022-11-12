@@ -2,79 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://t1ld3w4v3.github.io/osmo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-12T09:49:43.491Z</updated>
+    <updated>2022-11-12T09:54:49.371Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://t1ld3w4v3.github.io/osmo/index.html"/>
     <link rel="self" href="https://t1ld3w4v3.github.io/osmo/feed.atom"/>
-    <entry>
-        <title type="html"><![CDATA[The ULTIMATE VFX WORKFLOW In 2022]]></title>
-        <id>https://invidious.namazso.eu/watch?v=dlSOkXT7Lxk</id>
-        <link href="https://invidious.namazso.eu/watch?v=dlSOkXT7Lxk"/>
-        <updated>2022-10-25T11:00:20.000Z</updated>
-        <summary type="html"><![CDATA[Get the files from my videos on my Patreon!
-► https://www.patreon.com/alfievaughan
-
-Join the community discord to show your work and talk about it!
-► https://discord.gg/AaNpHyMpVp
-
-📸 Follow Me On Instagram!
-► https://www.instagram.com/alfie_vaughan_/
-
-♫ My Music Channel!
-► https://www.youtube.com/user/AlfieVaughanMusic
-
-My Gear!
-► Sony a7iii - https://amzn.to/2Sunq0p
-► Atomos Ninja Flame 4K Recorder - http://amzn.to/2umG5Du
-►Canon 24mm-70mm f/2.8 - https://amzn.to/2Rsrml7
-► Rode NTG2 (Microphone) - http://amzn.to/2wyzJkr
-► Main Light - https://amzn.to/37SPghc
-► Other Lights - http://amzn.to/2vgj4kh
-
-Liked the music in this video? Use this link to get a 30 day free trial of Epidemic Sounds and help support this channel! 
-► https://share.epidemicsound.com/36MbbZ
-
-TIMESTAMPS:
-0:00 - Intro
-0:48 - Resolve
-08:49 - Nuke
-10:12 - Blender
-14:25 - Compositing in Nuke
-
-#blender #vfx #workflow]]></summary>
-        <author>
-            <name>Alfie Vaughan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HALLOWEEN | Render Challenge 🔴 LIVE]]></title>
-        <id>https://invidious.namazso.eu/watch?v=eDtm5-l5tkE</id>
-        <link href="https://invidious.namazso.eu/watch?v=eDtm5-l5tkE"/>
-        <updated>2022-10-24T03:27:40.000Z</updated>
-        <summary type="html"><![CDATA[Get the files from my videos on my Patreon!
-► https://www.patreon.com/alfievaughan
-
-Join the community discord to show your work and talk about it!
-► https://discord.gg/AaNpHyMpVp
-
-📸 Follow Me On Instagram!
-► https://www.instagram.com/alfie_vaughan_/
-
-♫ My Music Channel!
-► https://www.youtube.com/user/AlfieVaughanMusic
-
-My Gear!
-► Sony a7iii - https://amzn.to/2Sunq0p
-► Atomos Ninja Flame 4K Recorder - http://amzn.to/2umG5Du
-►Canon 24mm-70mm f/2.8 - https://amzn.to/2Rsrml7
-► Rode NTG2 (Microphone) - http://amzn.to/2wyzJkr
-► Main Light - https://amzn.to/37SPghc
-► Other Lights - http://amzn.to/2vgj4kh
-
-Liked the music in this video? Use this link to get a 30 day free trial of Epidemic Sounds and help support this channel! 
-► https://share.epidemicsound.com/36MbbZ]]></summary>
-        <author>
-            <name>Alfie Vaughan</name>
-        </author>
-    </entry>
 </feed>
