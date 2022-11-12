@@ -5,7 +5,6 @@
 
 cacheUrl: https://t1ld3w4v3.github.io/osmo/cache.json
 sources:
-  - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
-  - href: https://css-tricks.com/feed/
-  - href: https://www.smashingmagazine.com/feed/
-  - href: https://www.freecodecamp.org/news/rss/
+  - href: https://invidious.namazso.eu/feed/channel/UC9uVcpm6-0w6Tp4F7Xm_R-Q
+  - href: https://rss-bridge.org/bridge01/?action=display&amp;bridge=HeiseBridge&amp;category=https%3A%2F%2Fwww.heise.de%2Fnewsticker%2Fheise-atom.xml&amp;limit=25&amp;format=Atom
+  - href: https://rss-bridge.org/bridge01/?action=display&amp;bridge=TelegramBridge&amp;username=%40LEGOangebote&amp;format=Atom
