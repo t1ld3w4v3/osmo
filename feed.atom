@@ -2,10 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://t1ld3w4v3.github.io/osmo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-19T01:04:28.275Z</updated>
+    <updated>2022-12-20T01:08:00.889Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://t1ld3w4v3.github.io/osmo/index.html"/>
     <link rel="self" href="https://t1ld3w4v3.github.io/osmo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[UPDATED 2022 VFX Showreel (Nuke Compositing)]]></title>
+        <id>https://invidious.namazso.eu/watch?v=wqhw0YzSvqA</id>
+        <link href="https://invidious.namazso.eu/watch?v=wqhw0YzSvqA"/>
+        <updated>2022-12-19T12:37:05.000Z</updated>
+        <summary type="html"><![CDATA[I uploaded a similar video recently but it didn't have a few projects I wanted to include at the time! This is my ACTUAL up to date showreel.
+
+Get the files from my videos on my Patreon!
+► https://www.patreon.com/alfievaughan
+
+Join the community discord to show your work and talk about it!
+► https://discord.gg/AaNpHyMpVp
+
+📸 Follow Me On Instagram!
+► https://www.instagram.com/alfie_vaughan_/
+
+♫ My Music Channel!
+► https://www.youtube.com/user/AlfieVaughanMusic
+
+My Gear!
+► Sony a7iii - https://amzn.to/2Sunq0p
+► Atomos Ninja Flame 4K Recorder - http://amzn.to/2umG5Du
+►Canon 24mm-70mm f/2.8 - https://amzn.to/2Rsrml7
+► Rode NTG2 (Microphone) - http://amzn.to/2wyzJkr
+► Main Light - https://amzn.to/37SPghc
+► Other Lights - http://amzn.to/2vgj4kh
+
+Liked the music in this video? Use this link to get a 30 day free trial of Epidemic Sounds and help support this channel! 
+► https://share.epidemicsound.com/36MbbZ
+
+#vfx #showreel #compositing]]></summary>
+        <author>
+            <name>Alfie Vaughan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[You're Doing VFX Explosions WRONG]]></title>
         <id>https://invidious.namazso.eu/watch?v=gpOgN2WKrAw</id>
