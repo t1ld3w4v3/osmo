@@ -2,10 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://t1ld3w4v3.github.io/osmo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-22T01:14:46.899Z</updated>
+    <updated>2023-06-23T01:21:28.706Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://t1ld3w4v3.github.io/osmo/index.html"/>
     <link rel="self" href="https://t1ld3w4v3.github.io/osmo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How To Make An Iron Man Suit Up In Blender | Tutorial]]></title>
+        <id>https://invidious.snopyta.org/watch?v=lVxAn9L1640</id>
+        <link href="https://invidious.snopyta.org/watch?v=lVxAn9L1640"/>
+        <updated>2023-06-22T11:00:28.000Z</updated>
+        <summary type="html"><![CDATA[Get the files from my videos on my Patreon!
+► https://www.patreon.com/alfievaughan
+
+Jacob's Video (InLightVFX)
+► https://www.youtube.com/watch?v=G2SacOKhJto&ab_channel=InLightVFX
+
+Join the community discord to show your work and talk about it!
+► https://discord.gg/AaNpHyMpVp
+
+📸 Follow Me On Instagram!
+► https://www.instagram.com/alfie_vaughan_/
+
+♫ My Music Channel!
+► https://www.youtube.com/user/AlfieVaughanMusic
+
+My Gear!
+► Sony a7iii - https://amzn.to/2Sunq0p
+► Atomos Ninja Flame 4K Recorder - http://amzn.to/2umG5Du
+►Canon 24mm-70mm f/2.8 - https://amzn.to/2Rsrml7
+► Rode NTG2 (Microphone) - http://amzn.to/2wyzJkr
+► Main Light - https://amzn.to/37SPghc
+► Other Lights - http://amzn.to/2vgj4kh
+
+Liked the music in this video? Use this link to get a 30 day free trial of Epidemic Sounds and help support this channel! 
+► https://share.epidemicsound.com/36MbbZ
+
+TIMESTAMPS:
+0:00 - My Video Was STOLEN
+1:30 - Tutorial Starts
+2:07 - Achieving "Photorealism"
+5:07 - Tone Matching The HDRI
+7:40 - Compositing Overview
+9:13 - Object Tracking The Body
+12:08 - Shadow Catcher
+12:57 - Render Passes
+14:03 - Compositing In Nuke
+17:29 - OUTRO
+
+#ironman #vfx #blender]]></summary>
+        <author>
+            <name>Alfie Vaughan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I Remade THIS Scene From Iron Man 3]]></title>
         <id>https://invidious.snopyta.org/watch?v=Ycf6W6r5Oag</id>
