@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://t1ld3w4v3.github.io/osmo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-14T01:23:07.817Z</updated>
+    <updated>2023-07-15T01:22:18.431Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://t1ld3w4v3.github.io/osmo/index.html"/>
     <link rel="self" href="https://t1ld3w4v3.github.io/osmo/feed.atom"/>
@@ -50,16 +50,6 @@ TIMESTAMPS:
 17:29 - OUTRO
 
 #ironman #vfx #blender]]></summary>
-        <author>
-            <name>Alfie Vaughan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Remade THIS Scene From Iron Man 3]]></title>
-        <id>https://invidious.snopyta.org/watch?v=Ycf6W6r5Oag</id>
-        <link href="https://invidious.snopyta.org/watch?v=Ycf6W6r5Oag"/>
-        <updated>2023-06-15T11:00:19.000Z</updated>
-        <summary type="html"><![CDATA[#ironman #marvel #avengers #cgi #vfx #vfxartist #blender #animation]]></summary>
         <author>
             <name>Alfie Vaughan</name>
         </author>
